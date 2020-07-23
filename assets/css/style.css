@@ -1,0 +1,22 @@
+.card-login{
+    border: 1px solid white !important;
+    border-radius: 15px !important;
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.3) !important;
+}
+
+.color-white{
+    color:white !important;
+}
+
+.color-pink{
+    color:#FF3278 !important;
+    font-weight: bold;
+}
+
+.color-purplenew{
+    color:#22215B !important;
+    font-weight: bold;
+}
+
+
+
